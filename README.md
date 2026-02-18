@@ -24,7 +24,7 @@ This project is a secure RESTful web application built using **Flask** that impl
 - [API Endpoints](#-api-endpoints)
 - [Setup & Installation](#%EF%B8%8F-setup--installation)
 - [Learning Outcome](#-learning-outcome)
-- [Creators](#-creators)
+- [Creators](#%E2%80%8D-creators)
 - [License](#-license)
 - [Contributing](#-contributing)
 - [Contact](#-contact)
